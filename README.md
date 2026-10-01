@@ -112,7 +112,7 @@ This makes it useful for improving contrast in images that are too dark, washed 
 
 ## License
 
-This project does not currently include a license file. If you plan to reuse or distribute it, consider adding an explicit open-source license.
+MIT License
 
 ## Contributing
 
